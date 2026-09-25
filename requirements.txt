@@ -1,0 +1,5 @@
+pymupdf
+ollama
+chromadb
+sentence-transformers
+rank-bm25
